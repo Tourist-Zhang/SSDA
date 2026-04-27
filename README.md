@@ -46,7 +46,7 @@ These issues fundamentally limit the transferability of pre-trained vision model
 ## Installation
 
 '''bash
-git clone https://anonymous.4open.science/r/SSA-LVM-D5A6/
+git clone https://anonymous.4open.science/r/SSDA-8C5B
 cd SSDA
 
 pip install -r requirements.txt
